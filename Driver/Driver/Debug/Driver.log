@@ -1,0 +1,14 @@
+﻿Build started 2/20/2015 4:01:31 PM.
+     1>Project "C:\Users\Edward Nerad\documents\visual studio 2013\Projects\EE496 Microrobotics\Driver\Driver\Driver.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\..\Desktop\assembly.cpp
+         assembly.cpp
+     1>c:\users\edward nerad\desktop\assembly.cpp(13): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Edward Nerad\documents\visual studio 2013\Projects\EE496 Microrobotics\Driver\Debug\Driver.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\National Instruments\NI-DAQ\DAQmx ANSI C Dev\lib\msvc\\" "C:\Program Files (x86)\National Instruments\NI-DAQ\DAQmx ANSI C Dev\lib\msvc\NIDAQmx.lib" NIDAQmx.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Edward Nerad\documents\visual studio 2013\Projects\EE496 Microrobotics\Driver\Debug\Driver.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Edward Nerad\documents\visual studio 2013\Projects\EE496 Microrobotics\Driver\Debug\Driver.lib" /MACHINE:X86 Debug\assembly.obj
+         Driver.vcxproj -> C:\Users\Edward Nerad\documents\visual studio 2013\Projects\EE496 Microrobotics\Driver\Debug\Driver.exe
+     1>Done Building Project "C:\Users\Edward Nerad\documents\visual studio 2013\Projects\EE496 Microrobotics\Driver\Driver\Driver.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.43
